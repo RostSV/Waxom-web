@@ -815,7 +815,7 @@ padding-bottom: 50px;
 /* Logos */
 
 .logos__section{
-  background: url("../images/logos/logosbg.jpg");
+  background: url("images/logos/logosbg.jpg");
   background-size: cover;
 
 }
